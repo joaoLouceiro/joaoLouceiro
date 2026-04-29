@@ -1,4 +1,4 @@
-<svg width="830" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
 <style>
 @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
 @keyframes scan{0%{transform:translateY(0)}100%{transform:translateY(200px)}}
@@ -11,7 +11,7 @@
 .d3{animation:pulse 2.2s ease-in-out .7s infinite}
 .ttl{animation:glow 4s ease-in-out infinite}
 </style>
-<rect width="680" height="200" fill="#050d15" rx="6"/>
+<rect width="680" height="200" fill="#050d15" rx="6" opacity="0.9"/>
 <line x1="0" y1="50" x2="680" y2="50" stroke="#0d1f2d" stroke-width="0.5"/>
 <line x1="0" y1="100" x2="680" y2="100" stroke="#0d1f2d" stroke-width="0.5"/>
 <line x1="0" y1="150" x2="680" y2="150" stroke="#0d1f2d" stroke-width="0.5"/>
