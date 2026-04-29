@@ -5,11 +5,13 @@
   <img src="https://skillicons.dev/icons?i=java,spring,bash,py,c,neovim,arch"/>
 </div>
 
-
-## ⚡️ Stats
+<hr/>
+  
 ![joaoLouceiro's Stats](https://github-readme-stats.vercel.app/api?username=joaoLouceiro&theme=transparent&show_icons=true&hide_border=true&count_private=false&hide_rank=true&hide_title=true)
 ![joaoLouceiro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaoLouceiro&theme=shadow_blue&hide_border=true)
-![joaoLouceiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoLouceiro&theme=transparent&show_icons=true&hide_border=true&hide=jupyter%20notebook,css,html&layout=donut)
+![joaoLouceiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoLouceiro&theme=transparent&show_icons=true&hide_border=true&hide=jupyter%20notebook,css,html&&hide_title=true&layout=donut)
+
+
 
 <!--
 **joaoLouceiro/joaoLouceiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
