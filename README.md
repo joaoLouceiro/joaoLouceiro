@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://github.com/joaoLouceiro/joaoLouceiro/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 ![Banner](github-banner.svg)
 <!--
 **joaoLouceiro/joaoLouceiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
