@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://github.com/joaoLouceiro/joaoLouceiro/blob/main/github-banner_v2.svg"/>
+  <img src="https://github.com/joaoLouceiro/joaoLouceiro/blob/main/github-banner.svg"/>
   <br/>  
   <br/>
   <img src="https://skillicons.dev/icons?i=java,spring,bash,py,c,neovim,arch"/>
