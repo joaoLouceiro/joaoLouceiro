@@ -2,7 +2,7 @@
   <img src="https://github.com/joaoLouceiro/joaoLouceiro/blob/main/github-banner.svg"/>
   <br/>  
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,c,cpp,java,spring,bash,py,js,neovim"/>
+  <img src="https://skillicons.dev/icons?i=linux,java,spring,bash,py,js,c,neovim"/>
 </div>
 
 <hr/>
