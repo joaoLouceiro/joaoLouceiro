@@ -8,10 +8,11 @@
 <hr/>
 
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoLouceiro&theme=shadow_blue&hide_border=true"/>  -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaoLouceiro&theme=shadow_blue&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoLouceiro&theme=transparent&show_icons=true&hide_border=true&hide=jupyter%20notebook,css,html&&hide_title=true&layout=donut"/>  
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=joaoLouceiro&theme=transparent&show_icons=true&hide_border=true&count_private=false&hide_rank=true&hide_title=true"/>
-
+-->
 
 
 <!--
